@@ -1,8 +1,8 @@
 # Custom biomes are the thing i always do in Minecraft.
 
-So i decided, why not do it in my hardcore world,
+So i decided, why not do it in my hardcore world
 
-Custom biome n1:
+
 
 ## **CUSTOM FROZEN BIOME** 
 
