@@ -1,6 +1,4 @@
-# Current Projects im working on:
-
-Sky:COTL remake in Minecraft Hardcore
+# Sky:COTL remake in Minecraft Hardcore
 
 
 ![Untitled](https://github.com/user-attachments/assets/8d4d4afd-f7dd-45e9-a0f0-64e6ee7ec2f2)
