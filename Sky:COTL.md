@@ -9,7 +9,7 @@ In this project i will try to recreate Sky:COTL kingdoms in Minecraft.
 ## Info
 Project location: 
 
-Project start date: 20/7/2024
+Project start date: 28/7/2024
 
 ## Current progress: 
 
